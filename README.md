@@ -10,18 +10,11 @@ Skills: HTML / CSS / Tailwindcss / JS
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning nodeJs & python 
 - ⚡ Fun fact: Always Happy 🤡
-- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uforco&label=Profile%20views&color=0e75b6&style=flat" alt="uforco" /> </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uforco&label=Profile%20views&color=0e75b6&style=flat" alt="uforco" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uforco" alt="uforco" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +32,8 @@ Skills: HTML / CSS / Tailwindcss / JS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uforco&show_icons=true&locale=en" alt="uforco" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uforco&" alt="uforco" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uforco" alt="uforco" /></a> </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uforco&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
