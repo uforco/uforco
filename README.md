@@ -19,6 +19,6 @@ Skills: HTML / CSS / Tailwindcss / JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uforco&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uforco)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=uforco)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uforco)  
