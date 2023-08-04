@@ -1,5 +1,4 @@
 ![Always learning 😊](https://media.licdn.com/dms/image/D5616AQE1jsr-1SbMKQ/profile-displaybackgroundimage-shrink_350_1400/0/1691147294633?e=1696464000&v=beta&t=xBvsfB7-5G16Vg1Jk_z9rL282YU6yQ6ozD0yUU3Dwcc)
-
 ### Hi there 👋, I'm Md Sharif
 #### Always learning 😊
 
