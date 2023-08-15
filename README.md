@@ -19,7 +19,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
 
 
-<a href="https://www.sololearn.com/profile/13708434" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/P6Ixu0T8hx2x80aCURUdcMW8poVuA4J0JQf8fw-XEa_NgzNSGUC1SNLkbT2ioo0lXfkC=w240-h480-rw" alt="https://www.sololearn.com/profile/13708434" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/profile/13708434" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/P6Ixu0T8hx2x80aCURUdcMW8poVuA4J0JQf8fw-XEa_NgzNSGUC1SNLkbT2ioo0lXfkC=w240-h480-rw" alt="https://www.sololearn.com/profile/13708434" height="30" width="50" /></a>
 
 
 
