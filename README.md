@@ -14,7 +14,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-sharif-00286b156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sharif-00286b156/" height="34" width="44" /></a>
+<a href="https://www.linkedin.com/in/md-sharif-00286b156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sharif-00286b156/" height="34" width="42" /></a>
 <a href="https://www.facebook.com/srkajoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/srkajoy/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/md.sharif780/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md.sharif780/" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/profile/13708434" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/P6Ixu0T8hx2x80aCURUdcMW8poVuA4J0JQf8fw-XEa_NgzNSGUC1SNLkbT2ioo0lXfkC=w240-h480-rw" alt="https://www.sololearn.com/profile/13708434" height="29" width="30" /></a>
