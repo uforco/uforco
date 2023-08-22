@@ -18,7 +18,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 <a href="https://www.facebook.com/srkajoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/srkajoy/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/md.sharif780/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md.sharif780/" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/profile/13708434" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/P6Ixu0T8hx2x80aCURUdcMW8poVuA4J0JQf8fw-XEa_NgzNSGUC1SNLkbT2ioo0lXfkC=w240-h480-rw" alt="https://www.sololearn.com/profile/13708434" height="29" width="30" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/668609" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/452657937/1132479a-b4e2-476a-93c6-dc0fcabab6d6" alt="https://www.beecrowd.com.br/judge/en/profile/668609" height="40" width="48" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/668609" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/452657937/1132479a-b4e2-476a-93c6-dc0fcabab6d6" alt="https://www.beecrowd.com.br/judge/en/profile/668609" height="40" width="52" /></a>
 <a href="https://leetcode.com/srka780/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/srka780/" height="34" width="44" /></a>
 </p>
 
