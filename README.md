@@ -32,6 +32,8 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uforco&" alt="uforco" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uforco)](https://git.io/streak-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uforco" alt="uforco" /></a> </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uforco&bg_color=000000&color=c4c4c4&line=ffffff&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
