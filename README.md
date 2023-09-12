@@ -38,3 +38,17 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uforco&bg_color=000000&color=c4c4c4&line=ffffff&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=uforco&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=uforco&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=uforco&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
