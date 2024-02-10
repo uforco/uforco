@@ -255,9 +255,11 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uforco&show_icons=true&locale=en&layout=compact" alt="uforco" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uforco&show_icons=true&locale=en&layout=compact" alt="uforco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uforco&show_icons=true&locale=en" alt="uforco" /></p>
+</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uforco)](https://git.io/streak-stats)
 
