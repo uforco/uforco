@@ -283,8 +283,6 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 <br/>
 <br/>
 
-
-
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uforco&show_icons=true&locale=en&layout=compact" alt="uforco" /></p>
 
