@@ -27,7 +27,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 ## 👨‍💻 Skills & Experience:
 <p align="left">
 
-  <a style="margin: 5px" href="https://www.w3.org/html/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.w3.org/html/" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -38,7 +38,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.w3schools.com/css/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.w3schools.com/css/" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -48,7 +48,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://getbootstrap.com" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://getbootstrap.com" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -59,7 +59,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://tailwindcss.com/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://tailwindcss.com/" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -70,7 +70,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+  <a style="margin: 5px; padding: 5px; " href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -81,7 +81,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.typescriptlang.org/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.typescriptlang.org/" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -92,7 +92,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://reactjs.org/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://reactjs.org/" target="_blank">
     <img
       style="margin: 5px"
       src="https://reactnative.dev/img/header_logo.svg"
@@ -103,7 +103,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://nodejs.org" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://nodejs.org" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -113,7 +113,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://www.python.org" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.python.org" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
@@ -124,7 +124,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://expressjs.com" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://expressjs.com" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -135,7 +135,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.mongodb.com/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.mongodb.com/" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -146,7 +146,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.mysql.com/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.mysql.com/" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -157,7 +157,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://firebase.google.com/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://firebase.google.com/" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -168,7 +168,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://heroku.com" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://heroku.com" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -178,7 +178,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://www.netlify.com" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.netlify.com" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"
@@ -188,7 +188,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://vercel.com" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://vercel.com" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"
@@ -199,7 +199,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.gnu.org/software/bash/"
+  <a style="margin: 5px; padding: 5px; " href="https://www.gnu.org/software/bash/"
     target="_blank">
     <img
       style="margin: 5px"
@@ -211,7 +211,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a href="https://postman.com" target="_blank">
+  <; padding: 5px; a href="https://postman.com" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -220,9 +220,9 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       width="30"
       height="30"
     />
-  </a>
+  </;>
 
-  <a style="margin: 5px" href="https://git-scm.com/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://git-scm.com/" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -233,7 +233,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.figma.com/" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.figma.com/" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -244,7 +244,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
@@ -255,7 +255,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.photoshop.com/en" target="_blank">
+  <a style="margin: 5px; padding: 5px; " href="https://www.photoshop.com/en" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -266,16 +266,6 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 </p>
 
 
