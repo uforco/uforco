@@ -3,9 +3,13 @@
 ### Hi 👋, I'm Md Sharif
 FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
+- 👑 I’m a Web Developer. 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning nodeJs & python 
+- 🥅 Goals: React, Node, Mongo, Express.js 
 - ⚡ Fun fact: Always Happy 🤡
+
+<p>I am a junior web developer, with experience in web applications and building websites. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uforco&label=Profile%20views&color=0e75b6&style=flat" alt="uforco" /> </p>
 
