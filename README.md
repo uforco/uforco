@@ -113,6 +113,16 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       height="30"
     />
   </a>
+  <a style="margin: 5px" href="https://www.python.org" target="_blank">
+    <img
+      style="margin: 5px"
+      src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+      alt="python"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
 
   <a style="margin: 5px" href="https://expressjs.com" target="_blank">
     <img
@@ -163,6 +173,26 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a style="margin: 5px" href="https://www.netlify.com" target="_blank">
+    <img
+      style="margin: 5px"
+      src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"
+      alt="netlify"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a style="margin: 5px" href="https://vercel.com" target="_blank">
+    <img
+      style="margin: 5px"
+      src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"
+      alt="vercel"
       align="left"
       width="30"
       height="30"
