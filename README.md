@@ -17,12 +17,17 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 <a href="https://www.linkedin.com/in/md-sharif-01b5b2289/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/linkedin.png" alt="https://www.linkedin.com/in/md-sharif-01b5b2289/" height="30" width="30" /></a>
   <a href="https://www.facebook.com/srkajoy/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/facebook.png" alt="https://www.facebook.com/srkajoy/" height="30" width="30" /></a> 
   <a href="https://www.instagram.com/md.sharif780/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/instagram.png" alt="https://www.instagram.com/md.sharif780/" height="30" width="30" /></a>
-  <a href="https://www.w3profile.com/sharif780" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/rsz_w3schools.png" alt="https://www.w3profile.com/sharif780" height="30" width="30" /></a>
-  <a href="https://www.sololearn.com/profile/13708434" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/P6Ixu0T8hx2x80aCURUdcMW8poVuA4J0JQf8fw-XEa_NgzNSGUC1SNLkbT2ioo0lXfkC=w240-h480-rw" alt="https://www.sololearn.com/profile/13708434" height="30" width="30" /></a>
-  <a href="https://www.beecrowd.com.br/judge/en/profile/668609" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/rsz_3beecrowd1.png" alt="https://www.beecrowd.com.br/judge/en/profile/668609" height="30" width="46" /></a>
-  <a href="https://leetcode.com/srka780/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/rsz_leetcode.png" alt="https://leetcode.com/srka780/" height="30" width="30" /></a>
+  
 </p>
 <a href="https://www.buymeacoffee.com/Sharif780" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<a href="srka780@gmail.com">
+  <img style="margin: 5px"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-akashahmed5724%40gmail.com-brightgreen"
+    alt="emailAddress"
+  />
+</a>
+
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
