@@ -17,9 +17,9 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 <a href="https://www.linkedin.com/in/md-sharif-01b5b2289/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/linkedin.png" alt="https://www.linkedin.com/in/md-sharif-01b5b2289/" height="30" width="30" /></a>
   <a href="https://www.facebook.com/srkajoy/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/facebook.png" alt="https://www.facebook.com/srkajoy/" height="30" width="30" /></a> 
   <a href="https://www.instagram.com/md.sharif780/" target="blank"><img align="center" src="https://github.com/uforco/uforco/blob/main/img/instagram.png" alt="https://www.instagram.com/md.sharif780/" height="30" width="30" /></a>
-  <a href="srka780@gmail.com">
+  <a href="mailto:srka780@gmail.com">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-akashahmed5724%40gmail.com-brightgreen"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-srka780%40gmail.com-brightgreen"
     alt="emailAddress"
   />
 </a>
