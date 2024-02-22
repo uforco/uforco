@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Md Sharif
 FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
-- 👑 I’m a Web Developer. 
+- 👑 I’m Web Developer. 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning nodeJs & python 
 - 🥅 Goals: React, Node, Mongo, Express.js 
