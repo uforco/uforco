@@ -33,7 +33,7 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 
 <a href="https://remoteok.com/@sharif780">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Hire-Hire_Me-brightgreen"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20-Hire_Me-brightgreen"
     alt="emailAddress"
   />
 </a>
