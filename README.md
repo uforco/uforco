@@ -31,8 +31,11 @@ FEELINGS ARE JUST LIKE VISITORS... LET THEM COME AND GO........
 <!-- <a href="https://www.buymeacoffee.com/Sharif780" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
 <a href="https://remoteok.com/@sharif780" target="_blank"><img src="https://github.com/uforco/uforco/blob/main/img/we-are-hiring.png" alt="remotejos" style="height: 60px !important;width: 217px !important;" ></a>
 
-<a href="https://remoteok.com/@sharif780"  >
-   Hire Me 
+<a href="https://remoteok.com/@sharif780">
+  <img style="margin: 5px"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-Hire_Me-brightgreen"
+    alt="emailAddress"
+  />
 </a>
 
 
