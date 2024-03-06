@@ -18,12 +18,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uforco&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uforco&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uforco&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=uforco&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uforco&bg_color=000000&color=c4c4c4&line=ffffff&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
