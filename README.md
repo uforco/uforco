@@ -2,7 +2,7 @@
 <img src="https://github.com/uforco/uforco/blob/main/img/MD.Sharif%20(3).png" />
 
 ### Hi 👋, I'm Md Sharif
-<p>I am a junior web developer, with experience in web applications and building websites. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
+<p>I am a MERN Stack developer, with experience in web applications and building websites. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: Mongo, Express, React, Node<br>⚡ Fun fact Always Happy
