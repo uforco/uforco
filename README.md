@@ -7,6 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: Mongo, Express, React, Node<br>⚡ Fun fact Always Happy
 
+<img src="https://camo.githubusercontent.com/94e655c92ea4f7e3c37fd22a82253ba7cb8d65c32368cc64b810d0bdf8bcdf0b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d75666f72636f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="uforco" data-canonical-src="https://komarev.com/ghpvc/?username=uforco&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srkajoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.sharif780) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sharif-01b5b2289) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SrkaJoy) 
