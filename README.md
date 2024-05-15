@@ -4,7 +4,16 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: MongoDB, ExpressJS, ReactJS, NodeJS<br>⚡ Fun fact Always Happy
+<!---🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: MongoDB, ExpressJS, ReactJS, NodeJS<br>⚡ Fun fact Always Happy--->
+
+- 🔭 My current work is not specific
+- 📚 I'm currently learning NodeJs
+- 🎯 Goals: live in a cold place
+- 🎲 And ... I like playing 🏸 badminton
+- ⚡ Fun fact Always Happy
+
+<!---english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and-->
+
 
 <img src="https://camo.githubusercontent.com/94e655c92ea4f7e3c37fd22a82253ba7cb8d65c32368cc64b810d0bdf8bcdf0b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d75666f72636f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="uforco" data-canonical-src="https://komarev.com/ghpvc/?username=uforco&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
 
