@@ -1,5 +1,7 @@
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<img src="https://github.com/uforco/uforco/blob/main/img/MD.Sharif%20(3).png" />
+<p> My name is Mauro and I'm a javascript developer, from <img src="https://github.com/uforco/uforco/blob/main/img/Bangladesh-Flag.png" width="17" /> <b>Dhaka, Bangladesh</b>. </p>
+
 
 ### Hi 👋, I'm Md Sharif
 <p>I am a MERN Stack developer, with experience in web applications and building websites. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
