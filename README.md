@@ -6,7 +6,7 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: MongoDB, ExpressJS, ReactJS, NodeJS<br>⚡ Fun fact Always Happy--->
 
-- 🔭 My current work is not specific
+- 🔭 My current work is <a href="https://solutya.com/" >Solutya Pvt. Ltd.</a>
 - 📚 I'm currently learning NodeJs
 - 🎯 Goals: live in a cold place
 - 🎲 And ... I like playing 🏸 badminton
