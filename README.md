@@ -12,7 +12,7 @@
 - 🎲 And ... I like playing 🏸 badminton
 - ⚡ Fun fact Always Happy
 
-<!---english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and-->
+english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and
 
 
 
