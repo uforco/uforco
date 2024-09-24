@@ -14,10 +14,10 @@
 
 <!---english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and-->
 
-<!---
+
 
 <img src="https://camo.githubusercontent.com/94e655c92ea4f7e3c37fd22a82253ba7cb8d65c32368cc64b810d0bdf8bcdf0b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d75666f72636f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="uforco" data-canonical-src="https://komarev.com/ghpvc/?username=uforco&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
-
+<!---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srkajoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.sharif780) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sharif-01b5b2289) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SrkaJoy) 
 -->
@@ -47,7 +47,7 @@
 
 ---->
 
-
+<!---- 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uforco&bg_color=000000&color=c4c4c4&line=ffffff&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -55,7 +55,7 @@
 [![](https://visitcount.itsvg.in/api?id=uforco&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!----      ---->
+     ---->
 
 
  <!--- ## 💰 You can help me by Donating
