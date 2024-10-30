@@ -40,13 +40,14 @@ english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 <span style="display: flex; justify-content: center; width: 100%; border: 1px solid black;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Description of the image" width="100%" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Description of the image"  style="display: flex; justify-content: center; width: 100%; border: 1px solid black;">
 
 </span>
+
+
 <!----
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uforco&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uforco&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
