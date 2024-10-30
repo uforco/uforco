@@ -40,7 +40,10 @@ english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 <span style="display: flex; justify-content: center; width: 100%; border: 1px solid black;">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display: flex; justify-content: center; width: 100%; border: 1px solid black;" >
+     
+</a>
 </span>
 <!----
 ### 🔝 Top Contributed Repo
