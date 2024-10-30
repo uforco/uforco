@@ -36,8 +36,8 @@ english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) &nbsp; &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uforco&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 <!----
 ### 🔝 Top Contributed Repo
