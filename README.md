@@ -40,8 +40,10 @@ english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="
 
 
 <span style="display: flex; justify-content: center; width: 100%; border: 1px solid black;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Description of the image"  style="display: flex; justify-content: center; width: 70%; height: 200px; border: 1px solid black;">
+<p>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Description of the image"  style="display: flex; justify-content: center; width: 80%; height: 300px; border: 1px solid black;">
 
+</p>
 </span>
 
 
