@@ -40,10 +40,10 @@ english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="
 
 <div style="display: flex; justify-content: space-between; width: 100%; border: 1px solid black; overflow: hidden;" >
      <div style="display: flex; justify-content: center; width: 50%;" >
-          <img src="https://github-readme-stats.vercel.app/api?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"  style="display: flex; justify-content: center; width: 100%; height: 250px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=uforco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"  style="display: flex; justify-content: center; width: 340px; height: 250px;">
      </div>
      <div style="display: flex; justify-content: cente; width: 50%;" >
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=uforco&theme=tokyonight&hide_border=false"  style="display: flex; justify-content: center; width: 100%; height: 250px;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=uforco&theme=tokyonight&hide_border=false"  style="display: flex; justify-content: center; width: 340px; height: 250px;">
      </div>
 </div>
 
