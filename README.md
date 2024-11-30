@@ -82,4 +82,7 @@ english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uforco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
