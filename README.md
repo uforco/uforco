@@ -6,7 +6,7 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: MongoDB, ExpressJS, ReactJS, NodeJS<br>⚡ Fun fact Always Happy--->
 
-- 🔭 My current work is <a href="https://sharifcodedev.vercel.app/" >not specific</a>
+- 🔭 My current work is <a href="https://softvence.agency/" >Softvence Omega</a> at Back-End Developer
 - 📚 I'm currently learning NodeJs
 - 🎯 Goals: live in a cold place
 - 🎲 And ... I like playing 🏸 badminton
