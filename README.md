@@ -6,21 +6,14 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJs & python<br>💬 Ask me about React<br>🥅 Goals: MongoDB, ExpressJS, ReactJS, NodeJS<br>⚡ Fun fact Always Happy--->
 
+<!-----
+
 - 🔭 My current work is <a href="https://softvence.agency/" >Softvence Omega</a> at Back-End Developer
 - 📚 I'm currently learning GO leng
 - 🎯 Goals: live in a cold place
 - 🎲 And ... I like playing 🏸 badminton
 - ⚡ Fun fact Always Happy
-
-
-english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uforco&label=Profile%20views&color=0e75b6&style=flat" alt="uforco" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uforco" alt="uforco" /></a> </p>
+---->
 
 - 🔭 I’m currently working on [HRVIEW](https://github.com/uforco/HRView)
 
